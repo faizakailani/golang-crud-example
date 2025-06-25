@@ -49,8 +49,8 @@ Run the project:
 `go run main.go`
 
 📝 Example Endpoints
-GET    /users
-GET    /user/{id}
-POST   /user
-PUT    /user/{id}
-DELETE /user/{id}
+  - GET    /users
+  - GET    /user/{id}
+  - POST   /user
+  - PUT    /user/{id}
+  - DELETE /user/{id}
